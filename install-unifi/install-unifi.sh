@@ -35,7 +35,7 @@ fi
 ABI=`/usr/sbin/pkg config abi`
 
 # FreeBSD package source:
-FREEBSD_PACKAGE_URL="https://pkg.freebsd.org/FreeBSD:14:amd64/latest/"
+FREEBSD_PACKAGE_URL="https://pkg.freebsd.org/FreeBSD:14:amd64/latest/Latest/"
 
 # FreeBSD package list:
 FREEBSD_PACKAGE_LIST_URL="${FREEBSD_PACKAGE_URL}packagesite.pkg"
